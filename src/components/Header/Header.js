@@ -10,7 +10,7 @@ const Header = () => (
     <Div1>
       <Link href="/">
         <a style={{ display: 'flex', alignItems: 'center', color: 'white', marginBottom: '20px' }}>
-          <FaConnectdevelop size="2.5 rem" style={{ marginRight: '5px' }} />
+          <FaConnectdevelop size="2.5rem" style={{ marginRight: '5px' }} />
           <Span>Portfolio</Span>
         </a>
       </Link>
