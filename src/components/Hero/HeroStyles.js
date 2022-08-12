@@ -7,7 +7,7 @@ export const ProfilePictureContainer = styled.div`
 
 export const ProfilePicture = styled.img`
   width: 40%;
-  height: 40%;
+  height: 100%;
   object-fit: cover;
   overflow: visible;
   border-radius: 70px;
